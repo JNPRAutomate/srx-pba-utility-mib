@@ -1,5 +1,5 @@
 # SRX PBA Utility MIB
-sample script for loading basic PBA stats to  SNMP Utility MIB. 
+sample Junos on-box script for loading basic PBA stats to SNMP Utility MIB. 
 Prior Junos release 23.4 no PBA stats exist in MIB.
 
 version 0.10
