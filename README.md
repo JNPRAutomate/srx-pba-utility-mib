@@ -63,4 +63,4 @@ to avoid CSCRIPT_SECURITY_WARNING event log about unsigned script:
 
 ```
 set event-options event-script file pba-umib.py checksum sha-256 + output from: % sha256 pba-umib.py
-set system scripts op file pba-umib.py checksum sha-256
+set system scripts op file pba-umib.py checksum sha-256 + output from: % sha256 pba-umib.py
